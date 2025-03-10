@@ -1,1 +1,1 @@
-len(12345)
+print("Number of letters in your name:\n ",len(input("Enter your name\n")))
